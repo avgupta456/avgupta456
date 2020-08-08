@@ -11,19 +11,16 @@
 
 ![](https://img.shields.io/badge/Library-Django-red?style=flat-square&logo=django&logoColor=white) 
 ![](https://img.shields.io/badge/Library-ReactJS-red?style=flat-square&logo=react&logoColor=white) 
-![](https://img.shields.io/badge/Library-NumPy-red?style=flat-square&logoColor=white) 
 ![](https://img.shields.io/badge/Library-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white) 
 ![](https://img.shields.io/badge/Library-GraphQL-red?style=flat-square&logo=graphql&logoColor=white) 
 ![](https://img.shields.io/badge/Library-Pandas-red?style=flat-square&logo=pandas&logoColor=white) 
-![](https://img.shields.io/badge/Library-TensorFlow-red?style=flat-square&logo=tensorflow&logoColor=white) 
 
 
-![](https://img.shields.io/badge/Library-Git-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Library-Databases-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Library-Cloud%20Hosting-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Library-REST%20API-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Library-CI/CD-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Library-Docker-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Skills-Git-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Skills-Databases-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Skills-Cloud-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/avgupta456/avgupta456">
