@@ -1,5 +1,11 @@
-### Hi there 👋
+## 👋 Hi there :)
+My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. 
 
+## 🌱 Projects
+* I develop deep learning models predicting social group phenomena with the Yale Interactive Machines Group
+* I am the founder of statbotics.io, an open-source full-stack data analytics platform for the FIRST Robotics Competition.
+* I lead the YHack Tech Team designing the YHack website and YHack application system serving 2,000+ candidates
+* I contribute to CourseTable, Yale’s leading course search website.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white) 
@@ -30,16 +36,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
 </a>
 
-<!--
-**avgupta456/avgupta456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+## 📫 Contact
+I am looking for Fall 2020, Spring 2021, and Summer 2021 internship opportunities, please reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![mailto:avgupta456@gmail.com](https://img.shields.io/badge/Contact-Email-success?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avgupta456@gmail.com)
+[![https://www.linkedin.com/in/avgupta456/](https://img.shields.io/badge/Contact-LinkedIn-success?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avgupta456/)
