@@ -22,11 +22,11 @@ My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Comp
 ![](https://img.shields.io/badge/Library-Pandas-red?style=flat-square&logo=pandas&logoColor=white) 
 
 
-![](https://img.shields.io/badge/Skills-Git-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Skills-Databases-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Skills-Cloud-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Skills-Git-blueviolet?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Skills-Databases-blueviolet?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Skills-Cloud-blueviolet?style=flat-square&logo=googlecloud&logoColor=white)
+![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=travis%20ci&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/avgupta456/avgupta456">
