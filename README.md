@@ -1,7 +1,7 @@
 ## 👋 Hi there :)
 My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. 
 
-I am looking for Fall 2020, Spring 2021, and Summer 2021 internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
+I am looking for <b>Fall 2020, Spring 2021, and Summer 2021</b> internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
 
 ## 🌱 Projects
 * I develop deep learning models predicting social group phenomena with the Yale Interactive Machines Group
@@ -31,11 +31,9 @@ I am looking for Fall 2020, Spring 2021, and Summer 2021 internship opportunitie
 ![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=travis%20ci&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
-<div>
 <a href="https://github.com/avgupta456/avgupta456">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/avgupta456/avgupta456">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
 </a>
-</div>
