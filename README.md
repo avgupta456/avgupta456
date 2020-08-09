@@ -1,6 +1,8 @@
 ## 👋 Hi there :)
 My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. 
 
+I am looking for Fall 2020, Spring 2021, and Summer 2021 internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
+
 ## 🌱 Projects
 * I develop deep learning models predicting social group phenomena with the Yale Interactive Machines Group
 * I am the founder of statbotics.io, an open-source full-stack data analytics platform for the FIRST Robotics Competition.
@@ -37,10 +39,3 @@ My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Comp
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
 </a>
 </div>
-<hr/>
-
-## 📫 Contact
-I am looking for Fall 2020, Spring 2021, and Summer 2021 internship opportunities, please reach out!
-
-[![mailto:avgupta456@gmail.com](https://img.shields.io/badge/Contact-Email-success?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avgupta456@gmail.com)
-[![https://www.linkedin.com/in/avgupta456/](https://img.shields.io/badge/Contact-LinkedIn-success?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avgupta456/)
