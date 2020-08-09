@@ -32,8 +32,8 @@ I am looking for <b>Fall 2020, Spring 2021, and Summer 2021</b> internship oppor
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/avgupta456/avgupta456">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/avgupta456/avgupta456">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
 </a>
