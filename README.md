@@ -30,10 +30,10 @@ My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Comp
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/avgupta456/avgupta456">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avgupta456&hide=jupyter%20notebook,matlab&layout=compact" />
 </a>
 <a href="https://github.com/avgupta456/avgupta456">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
 </a>
 
 ## 📫 Contact
