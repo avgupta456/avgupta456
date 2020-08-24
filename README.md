@@ -1,7 +1,7 @@
 ## 👋 Hi there :)
 My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. 
 
-I am looking for <b>Fall 2020, Spring 2021, and Summer 2021</b> internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
+I am looking for <b>Spring 2021 and Summer 2021</b> internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
 
 ## 🌱 Projects
 * I develop deep learning models predicting social group phenomena with the Yale Interactive Machines Group
