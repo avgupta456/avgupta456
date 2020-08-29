@@ -1,5 +1,5 @@
 ## 👋 Hi there :)
-Hello, my name is Abhijit Gupta. I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. I am currently taking a gap semester and working at Gatherly as a Software Engineer.
+Hello, my name is Abhijit Gupta. I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. Currently, I am on a gap semester, working as a Software Engineer at Gatherly!
 
 I am looking for <b>Spring 2021 and Summer 2021</b> internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
 
