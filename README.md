@@ -1,9 +1,10 @@
 ## 👋 Hi there :)
-My name is Abhijit Gupta, and I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. 
+Hello, my name is Abhijit Gupta. I am a junior at Yale University, majoring in Computer Science and Applied Mathematics. I am currently taking a gap semester and working at Gatherly as a Software Engineer.
 
 I am looking for <b>Spring 2021 and Summer 2021</b> internship opportunities. Please send an [email](mailto:avgupta456@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
 
 ## 🌱 Projects
+* I am a software engineer at Gatherly, working on a spatial video conferencing platform for engaging virtual events.
 * I develop deep learning models predicting social group phenomena with the Yale Interactive Machines Group
 * I am the founder of statbotics.io, an open-source full-stack data analytics platform for the FIRST Robotics Competition.
 * I lead the YHack Tech Team designing the YHack website and YHack application system serving 2,000+ candidates
@@ -12,10 +13,10 @@ I am looking for <b>Spring 2021 and Summer 2021</b> internship opportunities. Pl
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white) 
 ![](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white) 
+![](https://img.shields.io/badge/Code-NodeJS-blue?style=flat-square&logo=node.js&logoColor=white) 
 ![](https://img.shields.io/badge/Code-HTML/CSS-blue?style=flat-square&logo=html5&logoColor=white) 
 ![](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=mysql&logoColor=white) 
 ![](https://img.shields.io/badge/Code-C/C++-blue?style=flat-square&logo=c++&logoColor=white) 
-![](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java&logoColor=white)
 
 ![](https://img.shields.io/badge/Library-Django-red?style=flat-square&logo=django&logoColor=white) 
 ![](https://img.shields.io/badge/Library-ReactJS-red?style=flat-square&logo=react&logoColor=white) 
