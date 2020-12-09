@@ -30,8 +30,3 @@ Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn]
 ![](https://img.shields.io/badge/Skills-Cloud-blueviolet?style=flat-square&logo=googlecloud&logoColor=white)
 ![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=travis%20ci&logoColor=white)
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/avgupta456/avgupta456">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avgupta456&count_private=true&hide=stars,prs&show_icons=true&include_all_commits=true" />
-</a>
