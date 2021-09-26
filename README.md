@@ -31,4 +31,4 @@ Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn]
 ![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=travis%20ci&logoColor=white)
 
-[![Abhijit's GitHub Stats](https://pub-dot-github-298920.uc.r.appspot.com/user/avgupta4567/svg)](https://github.com/avgupta456/github-trends)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/avgupta456/svg/langs?use_percent=False)](https://githubtrends.io)
