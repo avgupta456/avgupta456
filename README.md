@@ -31,4 +31,10 @@ Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn]
 ![](https://img.shields.io/badge/Skills-REST%20API-blueviolet?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Skills-CI/CD-blueviolet?style=flat-square&logo=travis%20ci&logoColor=white)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/avgupta456/svg/langs?use_percent=False)](https://githubtrends.io)
+## My Current Project: GitHub Trends
+
+Check out https://githubtrends.io for more information!
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=five_years&include_private=True)](https://githubtrends.io)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&compact=True)](https://githubtrends.io)
