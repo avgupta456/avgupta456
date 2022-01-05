@@ -1,14 +1,11 @@
 ## 👋 Hi there :)
-Hello, my name is Abhijit Gupta. I am a sophomore at Yale University, pursuing a BS in Computer Science and a certificate in Statistics and Data Science. This past fall I was an intern at Gatherly and this spring I am taking classes at Yale.
+Hello, my name is Abhijit Gupta. I am a junior at Yale University, pursuing a BS in Computer Science and a certificate in Statistics and Data Science. I will be interning at Jane Street this summer and joining full-time in 2023. In the past I have interned at Jane Street, Sentry.io, Gatherly, and RTI International.
 
 Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
 
 ## 🌱 Projects
-* I develop deep learning models predicting social group phenomena with the Yale Interactive Machines Group
-* I am the founder of statbotics.io, an open-source full-stack data analytics platform for the FIRST Robotics Competition.
-* I am the founder of quickbites.app, a mobile app on the App Store and Play Store to find the best food delivery meals.
-* I lead the YHack Tech Team designing the YHack website and YHack application system serving 2,000+ candidates
-* I contribute to CourseTable, Yale’s leading course search website.
+* Statbotics (statbotics.io), an open-source full-stack data analytics platform for the FIRST Robotics Competition.
+* GitHub Trends (githubtrends.io), an open-source tool that calculates and displays insightful statistics about your GitHub activity.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python&logoColor=white) 
