@@ -32,6 +32,6 @@ Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn]
 
 Check out https://githubtrends.io for more information!
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&loc_metric=changed)](https://githubtrends.io)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&compact=True)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True)](https://githubtrends.io)
