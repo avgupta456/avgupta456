@@ -10,6 +10,6 @@ Hello, my name is Abhijit Gupta. I am a junior at Yale University, pursuing a BS
 
 Check out https://githubtrends.io for more information!
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&loc_metric=changed)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&loc_metric=changed&group=private)](https://githubtrends.io)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True)](https://githubtrends.io)
