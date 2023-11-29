@@ -1,5 +1,5 @@
 ## 👋 Hi there :)
-Hello, my name is Abhijit Gupta. I am a senior at Yale University, pursuing a BS in Computer Science. In the past I have interned at Jane Street, Sentry.io, Gatherly, and RTI International. Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
+Hello, my name is Abhijit Gupta. I graduated from Yale in 2023 and currently am a Trader at Jane Street. In the past I have interned at Jane Street, Sentry.io, Gatherly, and RTI International. Feel free to reach out via [email](mailto:avgupta456@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/avgupta456/)!
 
 ## 🌱 Projects
 * Statbotics ([statbotics.io](https://www.statbotics.io)), an open-source full-stack data analytics platform for the FIRST Robotics Competition.
